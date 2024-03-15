@@ -1,7 +1,6 @@
 package ru.nick.app.service;
 
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.PostMapping;
 import ru.nick.app.model.Alumni;
 import ru.nick.app.repo.AlumniRepo;
 

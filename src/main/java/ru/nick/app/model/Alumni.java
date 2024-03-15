@@ -2,8 +2,6 @@ package ru.nick.app.model;
 
 import jakarta.persistence.*;
 
-import java.util.UUID;
-
 @Entity
 @Table(name = "alumni")
 public class Alumni {
